@@ -1,0 +1,1 @@
+all the functions have low amount of calls except fib which has a very high amount so it is causing slowdown
